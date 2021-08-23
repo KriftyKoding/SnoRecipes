@@ -1,2 +1,0 @@
-# SnoRecipes
-Sno Family Recipes
