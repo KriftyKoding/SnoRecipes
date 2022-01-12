@@ -1,0 +1,31 @@
+{
+  "name": "snorecipes",
+  "version": "1.0.0",
+  "description": "save and share Sno Family recipes",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KriftyKoding/SnoRecipes.git"
+  },
+  "keywords": [],
+  "author": "SnoKoding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KriftyKoding/SnoRecipes/issues"
+  },
+  "homepage": "https://github.com/KriftyKoding/SnoRecipes#readme",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "html-webpack-plugin": "^5.5.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
